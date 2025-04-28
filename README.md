@@ -1,5 +1,3 @@
-## The policy below applies to any cgpt related applications, including but not limited to, Custom GPTs, Chatbots, and APIs created by the entity named at the end of the document.
-
 ## Privacy Policy
 
 This Privacy Policy describes how your information is collected, used, and shared when you use this application.
