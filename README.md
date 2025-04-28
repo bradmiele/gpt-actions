@@ -32,4 +32,4 @@ We may update this policy from time to time. Continued use of the service consti
 
 ### Contact
 
-For questions or requests, contact us at mucifous@gmaiil.com.
+For questions or requests, contact mucifous@gmail.com.
